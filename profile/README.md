@@ -1,4 +1,4 @@
-# AgentVeil Protocol
+# AgentVeil Labs
 
 Action-control infrastructure for autonomous agent systems.
 
